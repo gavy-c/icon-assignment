@@ -5,32 +5,38 @@ body {
 
 
 
-
-h1 {
-	font-size: 53px;
-	font-family:"Trebuchet MS", Helvetica, sans-serif;
-}
-
-
 h2 {
 	text-align: left;
-	color: #ffdab9;
+	color: #17B0B8;
 	float: left;
 	padding: px;
+	font-size: 20px;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
-a {
-  color: #ffdab9;
+
+h1 {
+	font-size: 45px;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	color: #17B0B8;
 }
+
+p {
+	color: #17B0B8;
+	text-align: left;
+}
+
+
+
+
 
 .protest-info {
 
 text-align: left;
-	color: #ffdab9;
+	color: #00375c;
 	padding: 100px;
 	padding-bottom: 20px;
-
+padding-left: 0px;
 	font-size: 20px;
  font-weight: bold;
  font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -51,7 +57,7 @@ font-family: "Trebuchet MS", Helvetica, sans-serif;
 font-weight: normal;
 text-align: center;
 font-size: 20px;
-color: #ffdab9;
+color: ##00375c;
 padding-bottom: 20px;
 
 }
